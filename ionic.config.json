@@ -1,0 +1,7 @@
+{
+  "name": "gapapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
